@@ -1,2 +1,5 @@
 # godot_stuff
-godot simple projects
+simple games made in godot
+
+learn from:
+https://docs.godotengine.org/en/stable/index.html
